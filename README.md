@@ -1,13 +1,13 @@
 ## Screeshots
 
-<img src="screenshots/init.png">
-<img src="screenshots/basic.png">
-<img src="screenshots/basic2.png">
-<img src="screenshots/basic3.png">
-<img src="screenshots/basic_land.png">
-<img src="screenshots/basic_land2.png">
-<img src="screenshots/basic_land3.png">
-<img src="screenshots/history.png">
+<img src="screenshots/init.png" width="auto" height="300">
+<img src="screenshots/basic.png" width="auto" height="300">
+<img src="screenshots/basic2.png" width="auto" height="300">
+<img src="screenshots/basic3.png" width="auto" height="300">
+<img src="screenshots/basic_land.png" width="auto" height="300">
+<img src="screenshots/basic_land2.png" width="auto" height="300">
+<img src="screenshots/basic_land3.png" width="auto" height="300">
+<img src="screenshots/history.png" width="auto" height="300">
 
 ## Getting Started
 
