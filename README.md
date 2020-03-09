@@ -1,6 +1,13 @@
-# flutterapp
+## Screenshots
 
-A new Flutter application.
+<img src="screenshots/init.png" width="auto" height="300">
+<img src="screenshots/basic.png" width="auto" height="300">
+<img src="screenshots/basic2.png" width="auto" height="300">
+<img src="screenshots/basic.3png" width="auto" height="300">
+<img src="screenshots/basic_land.png" width="auto" height="300">
+<img src="screenshots/basic_land2.png" width="auto" height="300">
+<img src="screenshots/basic_land.3png" width="auto" height="300">
+<img src="screenshots/history.png" width="auto" height="300">
 
 ## Getting Started
 
